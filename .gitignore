@@ -6,3 +6,6 @@ __pycache__/
 *.pth
 *.pt
 *.ckpt
+wifi_preamble.csv
+wifi_preamble_inf.csv
+*.csv
