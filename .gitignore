@@ -1,0 +1,8 @@
+.vene/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+*.pth
+*.pt
+*.ckpt
